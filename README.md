@@ -10,4 +10,4 @@ There are two files. The user's manual and the Dev. documentation that explain e
 The hall of fame feature was not completely implemented. If you have any suggestions
 or way to implement it.*
 
-Feel free to suggestions and implementatios! XD
+Feel free to make suggestions and implementatios! XD
